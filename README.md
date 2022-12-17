@@ -112,7 +112,7 @@ Update your minimum sdk version to 23 in android/app/build.gradle
 defaultConfig {
     applicationId "com.gunschu.jitsi_meet_example"
     minSdkVersion 23 //Required for Jitsi
-    targetSdkVersion 28
+    targetSdkVersion 32
     versionCode flutterVersionCode.toInteger()
     versionName flutterVersionName
 }
